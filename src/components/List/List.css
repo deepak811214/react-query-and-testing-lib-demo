@@ -1,0 +1,12 @@
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+}
+.no-match {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-80%, -50%);
+  text-align: center;
+}

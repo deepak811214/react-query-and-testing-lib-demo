@@ -1,0 +1,9 @@
+.daterange {
+  display: flex;
+}
+.separator {
+  color: var(--secondary-color);
+  position: relative;
+  top: 62px;
+  margin: 0 2px;
+}
